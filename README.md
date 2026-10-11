@@ -28,4 +28,4 @@ Python, Streamlit, LangGraph, LangChain, OpenAI API, PyPDFLoader, python-docx
 3. Create a `.env` file and add your key
    OPENAI_API_KEY=your_key_here
 4. Run the app
-   streamlit run App.py
+   streamlit run App_V1.py
